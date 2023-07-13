@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ohene Nyarko
 - 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning Software Development at The Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE) Accra
-- 💞️ I’m looking to collaborate on any type web development project that enables me to test and sharp my skills
+- 🌱 I’m currently studying Software Development at The Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE) Accra
+- 💞️ I’m looking to collaborate on any type web development project that enables me to test and sharpen my skills
 - 📫 You can reach me via email : nyarkoohenekwasi@gmail.com
 
 <!---
